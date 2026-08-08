@@ -1,0 +1,4 @@
+cd voice-ai-test
+git init          # skip if already a git repo (e.g. cloned from HF)
+git add .
+git commit -m "Initial commit"
